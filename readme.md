@@ -4,7 +4,7 @@ A lightweight, high-performance OSS automated image upload plugin tailored for t
 
 <div align="center">
   <sub>Translations:</sub>
-  <a href="docs/i18n/README-zh_cn.md#readme">
+  <a href="docs/README-zh_cn.md#readme">
     <span>:cn:</span>
   </a>
 </div>
