@@ -7,6 +7,7 @@ A lightweight, high-performance OSS automated image upload plugin tailored for t
   <a href="docs/i18n/README-zh_cn.md#readme">
     <span>:cn:</span>
   </a>
+</div>
 
 ## Instructions
 
